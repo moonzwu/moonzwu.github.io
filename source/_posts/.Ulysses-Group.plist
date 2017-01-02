@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>2015summary-md.md</string>
+		</array>
+		<array>
+			<string>effective-communication-md.md</string>
+		</array>
+		<array>
+			<string>golang-pointer-md.md</string>
+		</array>
+		<array>
+			<string>physical_server_security.md</string>
+		</array>
+		<array>
+			<string>project-management-ten-questions-md.md</string>
+		</array>
+		<array>
+			<string>read-how-google-works-md.md</string>
+		</array>
+		<array>
+			<string>thinkingindt-md.md</string>
+		</array>
+		<array>
+			<string>weekone-md.md</string>
+		</array>
+		<array>
+			<string>问题与解决之道.md</string>
+		</array>
+		<array>
+			<string>responsibility-affirm-md.md</string>
+		</array>
+		<array>
+			<string>micro-service-md.md</string>
+		</array>
+		<array>
+			<string>2016summary-md.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
